@@ -10,5 +10,7 @@ Steps to run
 <br>
 2. Npm i
 <br>
+3. Create .env file, and add OpenAI API Secret Key
+<br>
 3. Npm run start
 <br>
